@@ -13,10 +13,8 @@ Nonad is looking for a job. If you think this project repository can help a litt
   * Contains color, solid dotted line, width and other information
   * Support output results in line segment - two point format
 * Parse and visualize the area around the ego-car in the OpenDrive map file
-![3d](https://github.com/Nonad/OpenDrive_Parser/blob/main/img/3dtown5.png)
-![2d](https://github.com/Nonad/OpenDrive_Parser/blob/main//img/2dtown5.png)
-![](img/3dtown5.png)
-![](img/2dtown5.png)
+![3d](img/3dtown5.png)
+![2d](img/2dtown5.png)
 
 
 ### 2. Dependency
